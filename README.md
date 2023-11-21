@@ -1,7 +1,5 @@
 # Robot Kinematics (UCLA MAE C163A)
 
-My team and I made a fishing robot!
-
 ![alt text](https://i.imgur.com/se3mK0i.png?raw=true)
 ![alt text](https://i.imgur.com/BK0qOaV.png)
 ![alt text](https://i.imgur.com/mc9vZw6.png)
